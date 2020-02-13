@@ -1,0 +1,28 @@
+form > p {
+color: rgb(109, 109, 109);
+
+}
+form > button {
+background-color: lightblue;
+padding: 3px;
+border: 2px solid lightgrey;
+}
+
+
+
+
+/* css for abt me */
+
+.my-xyz {
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+}
+
+.my-xyz>h2 {
+    padding: 5px;
+}
+.my-xyz>#line {
+    width:100%;
+    border-top: 2px solid maroon;
+    padding: 5px;
+}
